@@ -475,7 +475,8 @@ footer h5 {
 	height: 50% ;
 	width:  30%;
 	border-radius: 50%;
-	margin-top: 5%;
+	margin-top: 1%;
+	margin-bottom: 7%;
 	margin-left: 10%;
 	
 }
@@ -485,7 +486,7 @@ footer h5 {
 	height: 50% ;
 	width:  30%;
 	border-radius: 50%;
-	margin-top: -30%;
+	margin-top: -25%;
 	margin-right: 8%;
 	
 	
@@ -496,8 +497,7 @@ footer h5 {
 .first-title{
 	padding-top: 2%;
 	margin-left: 60%;
-	text-shadow: 0 0 25px#c1b168;
-	border-color: #c1b168;
+	color: #c1b168;
 	
   
 }
@@ -516,7 +516,6 @@ footer h5 {
 .second-title{
 	padding-top: 2%;
 	margin-left: 30%;
-	text-shadow: 0 0 25px#c1b168;
 	color: #c1b168;
 
   
