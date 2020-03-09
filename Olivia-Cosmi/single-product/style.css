@@ -230,7 +230,6 @@ footer h5 {
 }
 
 @media only screen and (min-width: 800px) {
-
 	/*header starts here*/
 	nav ul {
 		top: 68%;
@@ -317,7 +316,6 @@ footer h5 {
 }
 
 @media only screen and (min-width: 1265px) {
-
 	/*header starts here*/
 	.burger,
 	nav span {
@@ -410,7 +408,7 @@ footer h5 {
 		top: 0;
 	}
 
-	.sticky+.title {
+	.sticky + .title {
 		padding-top: 150px;
 	}
 
@@ -483,12 +481,10 @@ footer h5 {
 	display: flex;
 	justify-content: space-evenly;
 	margin-top: 47px;
-
 }
 
-
 .product img {
-	width: 60%;
+	width: 70%;
 	height: 90%;
 	margin: 19px;
 }
@@ -515,7 +511,6 @@ h1 {
 	text-indent: 50px;
 	letter-spacing: 1px;
 	margin-right: 170px;
-
 }
 
 .price span {
@@ -538,7 +533,6 @@ h1 {
 	width: 145px;
 	height: 43px;
 	background-color: #c1b168;
-
 }
 
 .line {
@@ -560,7 +554,6 @@ h1 {
 	width: 15%;
 	text-align: center;
 	margin: auto;
-
 }
 
 /************************************************** Product items ********************************************************************/
@@ -606,7 +599,6 @@ img.p-img {
 	font-size: 13PX;
 	margin: 13px;
 	color: #c1b168;
-
 }
 
 .price1 {
@@ -633,18 +625,15 @@ img.p-img {
 	}
 
 	.add {
-
 		margin-left: 50px;
 	}
 
 	.rltd {
-
 		width: 50%;
 	}
 }
 
 @media only screen and (max-width: 900px) {
-
 	.product {
 		display: flex;
 		flex-direction: column;
@@ -657,19 +646,15 @@ img.p-img {
 	}
 
 	.shampoo img {
-		height: 600px;
-		width: 200px;
+		width: 30%;
 	}
 
 	.rltd {
 		width: 30%;
 	}
-
-
 }
 
 @media only screen and (max-width: 700px) {
-
 	.all {
 		display: flex;
 		justify-content: space-between;
@@ -678,11 +663,5 @@ img.p-img {
 		padding: 20px 0;
 		flex-direction: column;
 		align-items: center;
-
 	}
-
-
-
-
-
 }
