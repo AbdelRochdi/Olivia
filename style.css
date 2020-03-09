@@ -179,6 +179,11 @@ h2 {
 	align-items: center;
 }
 
+.productype a {
+	text-decoration: none;
+	color: black;
+}
+
 .alimen,
 .cosmet {
 	background-color: #c1b168;
